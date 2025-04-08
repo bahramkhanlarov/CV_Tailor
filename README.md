@@ -14,10 +14,9 @@ A web application that automatically adapts your CV and generates a motivation l
 
 1. Clone the repository:
    
-```bash
 git clone https://github.com/bahramkhanlarov/CV_Tailor.git
 cd CV_Tailor
-'''
+
 
 2. Install the required dependencies:
 
