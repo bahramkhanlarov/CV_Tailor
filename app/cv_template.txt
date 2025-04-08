@@ -1,0 +1,68 @@
+Bahram Khanlarov
+Avenue des Alpes 102, 1820 Montreux, Suisse
+📧 bahram.khanlarov@glion.ch | 📱 +41 79 253 56 99
+🔗 linkedin.com/in/bahramkhanlarov | 📂 github.com/bahramkhanlarov
+Permis de séjour B, permis de conduire (possession d'une voiture)
+
+Profil Professionnel
+-----------------
+Analyste de données avec un Master of Science en Sciences de l'Information et des Données Appliquées et plus de 4 ans d'expérience en analyse de données, business intelligence et optimisation des processus. Expérimenté dans le développement et la maintenance de tableaux de bord et de rapports, utilisant des outils comme Python, SQL, Excel, Tableau et Power BI pour suivre les indicateurs clés de performance et communiquer les résultats aux parties prenantes. Adepte de la coordination d'événements de haut niveau, de l'optimisation des flux de travail administratifs et du maintien de la confidentialité dans des environnements multiculturels, comme démontré dans des rôles de soutien aux étudiants internationaux et aux parties prenantes. Maîtrise de l'anglais (C1), du français (C1), du turc (C1) et du russe (C1), avec un fort engagement pour la diplomatie et la collaboration internationale.
+
+Compétences Clés
+-----------------
+IA & Machine Learning: Python, LLM/NLP, Deep Learning, TensorFlow, modèles prédictifs.
+Data Engineering: Web Scraping (BeautifulSoup, Selenium), MongoDB, SQL, ETL (Apache Hop).
+Visualisation & Reporting: Tableau, Power BI
+Gestion de Projets: Analyse des besoins clients, stratégies de croissance, workshops collaboratifs.
+Langues: Français (Courant), Anglais (Courant), Allemand (A2), Turc (Courant), Russe (Courant).
+
+Expérience Professionnelle
+-----------------
+International Academy Montreux - Responsable du Développement Commercial | Vaud, Montreux, Suisse
+Jan 2023 – présent
+
+• Augmentation des taux d'inscription de 18% en mettant en œuvre des stratégies de recrutement basées sur les données et en optimisant le tunnel de conversion des étudiants
+• Lancement de 3 nouveaux segments de marché qui ont généré plus de 250 000 CHF de revenus supplémentaires grâce à des partenariats stratégiques avec des agences d'éducation internationales
+• Animation de réunions hebdomadaires d'analyse de données avec 12 parties prenantes pour suivre les KPI et identifier les opportunités de croissance à l'aide de tableaux de bord Power BI
+• Développement et exécution d'une stratégie complète d'entrée sur le marché qui a étendu la présence de l'Académie à 2 nouveaux pays en moins de 8 mois
+
+International Academy Montreux - Directeur Associé des Admissions | Vaud, Montreux, Suisse
+Juin 2019 – Déc 2022
+
+• Simplification du traitement des candidatures en mettant en œuvre des outils d'automatisation qui ont réduit le temps de traitement de 35% et amélioré la précision des données de 27%
+• Gestion d'une base de données de plus de 5'000 candidatures d'étudiants tout en assurant une conformité à 100% avec les directives de confidentialité et les réglementations RGPD
+• Création de tableaux de bord d'analyse d'admission complets à l'aide d'Excel et de Tableau qui ont fourni des informations en temps réel sur les tendances des candidatures et les taux de conversion
+• Amélioration du taux de conversion des étudiants de 22% grâce à des campagnes de suivi ciblées basées sur des analyses de comportement des candidats
+
+HSB Consultancy - Responsable Marketing | Vaud, Lausanne, Suisse
+Fév 2018 - Mai 2019
+
+• Augmentation de l'acquisition de clients de 31% en développant et mettant en œuvre des stratégies de marketing ciblées axées sur les opportunités de croissance du secteur hôtelier
+• Génération de plus de 40 prospects qualifiés par mois grâce à l'analyse de marché basée sur les données et à la création de contenu stratégique
+• Conception et analyse de 5 enquêtes d'étude de marché qui ont informé les décisions de développement de produits et le positionnement concurrentiel
+• Collaboration avec l'équipe d'analyse de données pour créer des modèles de segmentation clients qui ont amélioré le ROI marketing de 25%
+
+Hôtel Parc et lac - Assistant Directeur d'Hôtel | Vaud, Montreux, Suisse
+Oct 2015 - Déc 2017
+
+• Optimisation des flux de travail opérationnels qui ont réduit le temps de traitement administratif de 28% grâce à l'analyse des données et à la réingénierie des processus
+• Gestion de projets interdépartementaux résultant en une amélioration de 15% des scores de satisfaction client mesurés par des enquêtes après séjour
+• Mise en œuvre d'un nouveau système de collecte de données pour les retours clients qui a augmenté les taux de réponse de 43% et fourni des informations exploitables
+• Coordination de 12 événements de haut niveau avec un taux de satisfaction client de 98% tout en maintenant des métriques détaillées sur la performance des événements et le ROI
+
+Formation
+-----------------
+Haute école spécialisée de Lucerne (2021 – 2024)
+Master of Science en informatique appliquée et science des données
+
+Université des sciences appliquées des Grisons (2019 - 2021)
+Master en tourisme et changement
+
+Institut de hautes études de Glion (2010 - 2013)
+BBA en hôtellerie et tourisme
+
+Certifications
+-----------------
+• Oracle Cloud Infrastructure 2024 Generative AI Professional
+• Microsoft Azure Data Scientist Associate (DP100)
+• Power BI Data Analyst Associate (PL300)
